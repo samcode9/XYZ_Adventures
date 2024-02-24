@@ -1,0 +1,32 @@
+*{
+  font-family: 'Times New Roman', Times, serif;  
+}
+.header
+{
+ background-color: #D9D9D9;
+ padding: 17px;
+ border-radius: 50px;
+ margin: 20px;
+ color: #000000;
+ margin: auto;
+ width: 1100px;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+#setup{
+    margin: 10px;
+}
+#back{
+    background-color: #969292;
+    padding: 10px;
+    border-radius: 20px;
+    margin-right: 212px;
+}
+#back1{
+    background-color: #969292;
+    padding: 10px;
+    border-radius: 20px;
+    margin-right: 0px;
+}
