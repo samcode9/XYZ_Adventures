@@ -1,29 +1,31 @@
 *{
   font-family: 'Times New Roman', Times, serif;  
 }
-.header
+header
 {
- background-color: #D9D9D9;
- padding: 17px;
+ background-color: rgba(30,30,30,0.6);
+ padding: 30px;
  border-radius: 50px;
  margin: 20px;
  color: #000000;
  margin: auto;
- width: 1100px;
+ width: 990px;
 }/*background of the header*/
 a{
     text-decoration: none;
     color: #000000;
 }/*for the links*/
-#back{
-    background-color: #969292;
-    padding: 10px;
-    border-radius: 20px;
-    margin-right: 220px;
-} /*header background of the text*/
-#back1{
+#back, #back1 {
     background-color: #969292;
     padding: 10px;
     border-radius: 20px;
     margin-right: 0px;
-} /*header background for the booking box and adjusting its right side margin*/
+    text-align: right;
+    
+  }
+#back {
+    margin-right: 220px; /* Adjust as needed for spacing */
+  }
+.background1{
+    background-image: url(/image\ 1.jpg);
+}
