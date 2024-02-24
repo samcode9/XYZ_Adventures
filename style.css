@@ -10,23 +10,20 @@
  color: #000000;
  margin: auto;
  width: 1100px;
-}
+}/*background of the header*/
 a{
     text-decoration: none;
     color: #000000;
-}
-#setup{
-    margin: 10px;
-}
+}/*for the links*/
 #back{
     background-color: #969292;
     padding: 10px;
     border-radius: 20px;
     margin-right: 212px;
-}
+} /*header background of the text*/
 #back1{
     background-color: #969292;
     padding: 10px;
     border-radius: 20px;
     margin-right: 0px;
-}
+} /*header background for the booking box and adjusting its right side margin*/
